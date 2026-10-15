@@ -11,3 +11,5 @@
 ---
 2026-10-15: Ingested raw/Mettl VS Testlify Assessments.md. Byte-for-byte identical to raw/2026-10-15-mettl-vs-testlify-assessments.md, already filed. No new content. Listed as a duplicate source on hiring/assessment-vendors.md. No contradictions.
 ---
+2026-10-15: Ingested raw/2026-10-15-hr-answers-lint-review.md. Answers concern how the brain runs (memo left as is, capture-answers skill approved), not HR content. No pages created or updated.
+---

@@ -8,6 +8,7 @@ Each skill is a procedure the brain can run. Every skill follows `_schema.md`. N
 
 | Skill | What it does | Writes to | Status |
 |---|---|---|---|
+| `capture-answers.md` | Saves the owner's chat answers word for word as a new file in `raw/` | `raw/` (new files only) | published |
 | `draft-communication.md` | Drafts formal HR communications from wiki facts, unknowns left as [CONFIRM] | `drafts/<type>/` | published |
 | `extend-toolkit.md` | Authors the missing skill when the brain hits a gap | `skills/`, `drafts/extend-toolkit/` | published |
 | `ingest.md` | Files new material from `raw/` into linked, sourced wiki pages | `wiki/` | published |
