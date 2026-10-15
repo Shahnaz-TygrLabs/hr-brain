@@ -86,4 +86,5 @@ All **fact** from the source.
 
 ## Sources
 - raw/2026-10-15-mettl-vs-testlify-assessments.md
+- raw/Mettl VS Testlify Assessments.md (identical copy, uploaded separately)
 - raw/2026-10-15-hr-answers-assessment-memo.md

@@ -9,3 +9,5 @@
 ---
 2026-10-15: Ingested additional answers in raw/2026-10-15-hr-answers-assessment-memo.md. Updated hiring/assessment-vendors.md: first section confirmed as Mettl (assumption promoted to fact on the owner's word). No contradictions.
 ---
+2026-10-15: Ingested raw/Mettl VS Testlify Assessments.md. Byte-for-byte identical to raw/2026-10-15-mettl-vs-testlify-assessments.md, already filed. No new content. Listed as a duplicate source on hiring/assessment-vendors.md. No contradictions.
+---
