@@ -2,7 +2,7 @@
 name: extend-toolkit
 status: published
 authored_by: owner
-finalised_by: <OWNER_HANDLE>
+finalised_by: hr
 last_updated: 2026-10-03
 ---
 
