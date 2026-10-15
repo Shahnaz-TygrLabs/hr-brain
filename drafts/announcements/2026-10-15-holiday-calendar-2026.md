@@ -2,7 +2,7 @@
 
 **To:** All staff, Bangladesh and US offices
 **From:** HR Team
-**Date:** [CONFIRM: date of issue]
+**Date:** October 15, 2026
 
 Dear colleagues,
 
@@ -27,8 +27,7 @@ HR Team
 
 **Sources:** wiki/policies/holidays-2026.md, from raw/2026-10-15-tygrlabs-holidays-2026.md (holidays and dates) and raw/2026-10-15-hr-answers-holiday-calendar.md (company name, office mapping, weekend rule, remaining-only version). The "Day" column was calculated from the dates and checked.
 
-**Items to confirm before sending:**
-1. Date of issue.
+**Items to confirm before sending:** none.
 
 **Notes:**
 - None of the three remaining holidays falls on a weekend, so the weekend sentence has no effect this year. It can be removed if you prefer.

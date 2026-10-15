@@ -7,3 +7,5 @@
 ---
 2026-10-15: Ingested raw/2026-10-15-hr-answers-assessment-memo.md. Updated hiring/assessment-vendors.md with the roles the HR Team hires for and a gap: no role-specific tests listed for assistant and research roles. No contradictions.
 ---
+2026-10-15: Ingested additional answers in raw/2026-10-15-hr-answers-assessment-memo.md. Updated hiring/assessment-vendors.md: first section confirmed as Mettl (assumption promoted to fact on the owner's word). No contradictions.
+---

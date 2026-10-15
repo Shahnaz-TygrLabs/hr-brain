@@ -11,13 +11,13 @@ This page compares two pre-employment testing platforms, Mettl and Testlify, fro
 
 ### Which section belongs to which vendor
 - **Fact:** the second part of the document is headed "TESTLIFY".
-- **Assumption:** the first part, which has no vendor heading, describes Mettl. This is inferred from the file title "Mettl VS Testlify Assessments" only.
+- **Fact:** the first part, which has no vendor heading, describes Mettl. Confirmed by the HR Team ("Yes, it's Mettl", raw/2026-10-15-hr-answers-assessment-memo.md).
 
-### Mettl (assumed): customization
+### Mettl: customization
 - **Fact:** "Can set difficulty level, combine multiple skills into one test, add our own questions to the test, request a tailor-made test".
 - **Fact:** "About 24 tests available for Java, 5-6 tests available for Angular, 8-10 assessments for.NET, 3 Azure skill test".
 
-### Mettl (assumed): test catalog
+### Mettl: test catalog
 All rows are **fact** from the source, copied as written. A dash means the source gives no value.
 
 | Category | Test | Type | Experience | Difficulty | Duration | Questions |
@@ -43,7 +43,7 @@ All rows are **fact** from the source, copied as written. A dash means the sourc
 | Language Proficiency | Reading Comprehension (entry level sales/ops) | Aptitude | Grad/Undergrad Trainees | Medium | 45 mins | 24 |
 | Language Proficiency | Listening Skills (Sales and Ops) | Aptitude | 0-1 yrs | Easy | 15 mins | 10 |
 
-### Mettl (assumed): tests grouped by department
+### Mettl: tests grouped by department
 **Fact**, from the "DEPARTMENT WISE SEGREGATED TESTS" section. Tests already in the catalog above are listed by name only.
 
 | Department | Tests |

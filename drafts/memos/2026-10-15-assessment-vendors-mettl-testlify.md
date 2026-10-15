@@ -2,12 +2,12 @@
 
 **To:** Hiring Managers
 **From:** HR Team
-**Date:** [CONFIRM: date of issue]
+**Date:** October 15, 2026
 **Subject:** Candidate assessment platforms, Mettl and Testlify: request for your input
 
 ## Purpose
 
-HR is evaluating two pre-employment testing platforms, Mettl and Testlify. Before we select one, we would like to know which tests your team would use when hiring. Please review the summary below and reply to the questions at the end by [CONFIRM: response deadline].
+HR is evaluating two pre-employment testing platforms, Mettl and Testlify. Before we select one, we would like to know which tests your team would use when hiring. Please review the summary below and reply to the questions at the end by October 22, 2026.
 
 ## Summary of the two platforms
 
@@ -55,10 +55,7 @@ HR Team
 
 **Sources:** wiki/hiring/assessment-vendors.md, from raw/2026-10-15-mettl-vs-testlify-assessments.md and raw/2026-10-15-hr-answers-assessment-memo.md.
 
-**Items to confirm before sending:**
-1. Date of issue.
-2. Response deadline.
-3. Vendor names: the first section of the source has no vendor heading. It is labeled Mettl here based on the file title only. Please confirm.
+**Items to confirm before sending:** none. Vendor names confirmed by the HR Team.
 
 **Notes:**
 - The list of "general tests that may apply" to assistant and research roles is a suggestion for managers to consider, not a fact from the source. It is worded as such.
