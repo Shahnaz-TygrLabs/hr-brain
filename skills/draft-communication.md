@@ -1,8 +1,8 @@
 ---
 name: draft-communication
-status: draft
+status: published
 authored_by: agent
-finalised_by: null
+finalised_by: hr
 last_updated: 2026-10-15
 ---
 

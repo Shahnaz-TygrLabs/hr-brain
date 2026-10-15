@@ -5,3 +5,5 @@
 ---
 2026-10-15: Ingested raw/2026-10-15-hr-answers-holiday-calendar.md. Updated policies/holidays-2026.md: company name, office mapping and weekend rule moved from open questions to confirmed facts. Added a legal-check flag on the no-substitute-day rule. No contradictions.
 ---
+2026-10-15: Ingested raw/2026-10-15-hr-answers-assessment-memo.md. Updated hiring/assessment-vendors.md with the roles the HR Team hires for and a gap: no role-specific tests listed for assistant and research roles. No contradictions.
+---

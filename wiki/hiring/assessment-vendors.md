@@ -64,6 +64,13 @@ All **fact** from the source.
 | Language, typing and software | "English Language (varieties available)" |
 | AI-driven and interview simulations | "Auto-create custom assessments with AI prompt-based builder (selecting skills and experience)"; "Chat-simulation and AI-scored video/audio interviews streamline candidate evaluation" |
 
+### Roles we hire for
+**Fact**, from raw/2026-10-15-hr-answers-assessment-memo.md: the HR Team mainly hires for "Executive Assistants & Research Associate, Admin Assistant", "Sales & Operations" and "HR & Marketing".
+
+- **Fact:** the Mettl section lists department tests for Operations, Sales, Human Resources and Marketing.
+- **Fact:** neither section lists a test named for Executive Assistant, Research Associate or Admin Assistant roles.
+- **Not yet known:** which tests managers want for each role.
+
 ### Differences visible in the source
 - **Fact:** Mettl's tests are mostly 30 to 65 minutes; Testlify's listed tests are 10 to 25 minutes.
 - **Fact:** only the Testlify section mentions AI-built assessments and AI-scored video or audio interviews.
@@ -79,3 +86,4 @@ All **fact** from the source.
 
 ## Sources
 - raw/2026-10-15-mettl-vs-testlify-assessments.md
+- raw/2026-10-15-hr-answers-assessment-memo.md
