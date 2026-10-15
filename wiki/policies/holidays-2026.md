@@ -1,7 +1,7 @@
 # Company Holidays 2026
 
 ## Summary
-The 2026 holiday calendar lists 17 holidays that combine Bangladesh (Dhaka) and US public holidays, running from New Year's Day on January 1, 2026 to New Year's Eve on December 31, 2026. The source document is titled for Tygrlabs. Which holidays apply to which office, and how this calendar relates to RideCentric, are not stated in the source.
+The 2026 holiday calendar lists 17 holidays that combine Bangladesh (Dhaka) and US public holidays, running from New Year's Day on January 1, 2026 to New Year's Eve on December 31, 2026. The calendar is the Tygrlabs holiday calendar. The HR Team confirmed that Bangladesh holidays apply to the Dhaka office, US holidays apply to US staff, New Year's Day, Christmas Day and New Year's Eve apply to both, and no substitute day is given when a holiday falls on a weekend.
 
 ## Key Concepts
 - [[holidays-2026]]: this page
@@ -37,13 +37,23 @@ The "Day" column was added during filing from the calendar date; it is not in th
 - **Fact:** the document states "Total 17 Holidays", which matches the 17 rows in the table.
 - **Fact:** the document carries the heading "DHAKA HOLIDAYS 2026" and a legend with the labels "Bangladesh Holidays" and "US".
 
+### Confirmed by the HR Team
+All **fact**, from raw/2026-10-15-hr-answers-holiday-calendar.md.
+- The calendar is used under the name Tygrlabs.
+- Holidays are assigned by name: "Bangladesh holidays to Dhaka, US holidays to US staff; New Year's Day, Christmas and New Year's Eve to both."
+- Weekend holidays: "No extra day off is given."
+
+| Office | Holidays |
+|---|---|
+| Both | New Year's Day, Christmas Day, New Year's Eve |
+| Bangladesh (Dhaka) | Shab-e-Barat, Mother Language Day, Shab-e-Qadr, Eid-ul-Fitr (2 days), Independence Day (BD), Bengali New Year's Day, Eid-ul-Adha (2 days) |
+| US | Martin Luther King Jr Day, Memorial Day, US Independence Day, Labor Day, Thanksgiving Day |
+
 ### Open questions
-- **Not yet known:** which holidays apply to which office or employee group. The source legend appears to have used color or symbols that were lost in the file, so the mapping cannot be read.
-- **Assumption:** the US holidays (Martin Luther King Jr Day, Memorial Day, US Independence Day, Labor Day, Thanksgiving Day) and the Bangladesh holidays (Shab-e-Barat, Mother Language Day, Shab-e-Qadr, Eid-ul-Fitr, Independence Day (BD), Bengali New Year's Day, Eid-ul-Adha) follow their names. Inferred, not stated.
 - **Not yet known:** what the asterisk on the two Eid-ul-Fitr dates means. A common reason is that the date depends on moon sighting, but the source does not say so.
-- **Not yet known:** whether this Tygrlabs calendar applies to RideCentric staff.
-- **Not yet known:** what happens when a holiday falls on a weekend (for example US Independence Day on Saturday, July 4). The source does not cover substitute days off.
-- **Needs legal check:** whether this list covers all statutory holidays required in each country.
+- **Not yet known:** whether this Tygrlabs calendar also applies to RideCentric staff.
+- **Needs legal check:** whether this list covers all statutory holidays required in each country, and whether giving no substitute day for weekend holidays is permitted in each country.
 
 ## Sources
 - raw/2026-10-15-tygrlabs-holidays-2026.md
+- raw/2026-10-15-hr-answers-holiday-calendar.md
